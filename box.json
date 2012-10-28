@@ -1,0 +1,12 @@
+{
+	"directories": [
+		"application",
+		"model"
+	],
+	"files": [
+		"main.php"
+	],
+	"output": "example.phar",
+	"main": "main.php",
+	"stub": true
+}
