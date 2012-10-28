@@ -1,0 +1,6 @@
+#netbeans files
+nbproject/
+build/
+nbbuild/
+nbactions.xml
+nb-configuration.xml
